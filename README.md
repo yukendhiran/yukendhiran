@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yukendhiran
 - 👀 I’m interested in linux,cloud,security
-- 🌱 I’m currently learning linux,cloud,networking,programming
-- 📫 You can reach me with -> yukendhiran4@gmail.com || yukendhiranelango@gmail.com || yukendhiran.e2020@vitstudent.ac.in && yukendhiran_  on instagram
+- 🌱 I’m currently learning linux,cloud,programming,web development
+- 📫 You can reach me with -> yukendhiranelango@gmail.com && yukendhiran_  on instagram && yukendhiran-elango on linkedin
 
 <!---
 yukendhiran/yukendhiran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
